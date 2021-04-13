@@ -1,7 +1,7 @@
 .. _art13-bis:
 
-Art. 13 bis. Formazione informatica dei dipendenti pubblici
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Art. 13 bis. Codice di condotta tecnologica ed esperti
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 
@@ -12,4 +12,5 @@ Art. 13 bis. Formazione informatica dei dipendenti pubblici
 3\. I soggetti di cui all'articolo 2, comma 2, lettera a), che avviano progetti di sviluppo dei servizi digitali sono tenuti a rispettare il codice di condotta tecnologica e possono avvalersi, singolarmente o in forma associata, di uno o più esperti in possesso di comprovata esperienza e qualificazione professionale nello sviluppo e nella gestione di processi complessi di trasformazione tecnologica e progetti di trasformazione digitale, nel limite delle risorse progettuali disponibili a legislazione vigente per lo scopo. Il codice di condotta tecnologica indica anche le principali attività, ivi compresa la formazione del personale, che gli esperti svolgono in collaborazione con il responsabile per la transizione digitale dell'amministrazione pubblica interessata, nonché il limite massimo di durata dell'incarico, i requisiti di esperienza e qualificazione professionale e il trattamento economico massimo da riconoscere agli esperti.
 
 4\. Nella realizzazione e nello sviluppo dei sistemi informativi, è sempre assicurata l'integrazione con le piattaforme abilitanti previste dagli articoli 5, 62, 64 e 64-bis, nonché la possibilità di accedere da remoto ad applicativi, dati e informazioni necessari allo svolgimento della prestazione lavorativa in modalità agile, assicurando un adeguato livello di sicurezza informatica, in linea con le migliori pratiche e gli standard nazionali ed internazionali per la protezione delle proprie reti, nonché promuovendo la consapevolezza dei lavoratori sull'uso sicuro dei suddetti sistemi informativi, anche attraverso la diffusione di apposite linee guida, e disciplinando anche la tipologia di attività che possono essere svolte.
+
 5\. L'AgID verifica il rispetto del codice di condotta tecnologica da parte dei soggetti interessati e può diffidare i soggetti a conformare la propria condotta agli obblighi previsti dal codice. La progettazione, la realizzazione e lo sviluppo di servizi digitali e sistemi informatici in violazione del codice di condotta tecnologica costituiscono mancato raggiungimento di uno specifico risultato e di un rilevante obiettivo da parte dei dirigenti responsabili delle strutture competenti e comportano la riduzione, non inferiore al 30 per cento, della retribuzione di risultato e del trattamento accessorio collegato alla performance individuale dei dirigenti competenti, oltre al divieto di attribuire premi o incentivi nell'ambito delle medesime strutture.
